@@ -14,7 +14,7 @@ function setup() {
 
 function draw() {
     image(video, 0, 0, 300, 300);
-    image(clown_nose, noseX - 40, noseY + 20, 70, 30);
+    image(clown_nose, noseX - 40, noseY + 15, 70, 30);
 }
 
 function take_snapshot() {
